@@ -1,5 +1,7 @@
 # Arduino Experiments :bowtie:
-esperimenti con arduino  ![Arduino](https://www.arduino.cc/en/pub/skins/arduinoWide/img/ArduinoLogo_loop-01.svg)
+esperimenti con arduino  
+
+![Arduino](https://www.arduino.cc/en/pub/skins/arduinoWide/img/ArduinoLogo_loop-01.svg)
 
 ### sensori utilizzati:
 * led 

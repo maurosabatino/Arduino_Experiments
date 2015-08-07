@@ -1,18 +1,22 @@
-# Arduino_Experiments
-esperiment con arduino
+# Arduino Experiments :bowtie:
+esperimenti con arduino
 
-:bowtie:
+### sensori utilizzati:
+* led 
+*  termometro dht-11
+*  bluetooth hc 06
+*  lcd 1602a con interfaccia IC2
 
 
-## Led
+### Alcune istruzioni :muscle:
+#### Led :bulb:
 
 | Polo | Description |
 | ------ | ----------- |
 | :heavy_minus_sign:  | gnd (ground) |
-| :heavy_plus_sign: | esistenza e poi pin x |
+| :heavy_plus_sign: | resistenza e poi pin x |
 
-::: warning
-*here be dragons*
-:::
 
-![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png)
+
+
+![Arduino](https://www.arduino.cc/en/pub/skins/arduinoWide/img/ArduinoLogo_loop-01.svg)

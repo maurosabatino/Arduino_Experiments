@@ -13,8 +13,8 @@ esperimenti con arduino
 
 | Polo | Description |
 | ------ | ----------- |
-| :heavy_minus_sign:  | gnd (ground) |
-| :heavy_plus_sign: | resistenza e poi pin x |
+| :heavy_minus_sign:  (corto) | gnd (ground) |
+| :heavy_plus_sign:  (lungo)| resistenza e poi pin x |
 
 
 
